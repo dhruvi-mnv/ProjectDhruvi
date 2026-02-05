@@ -13,4 +13,9 @@ public class ProjectDhruvi {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    //added a piece of code
+    public double add(double a, double b){
+        return a+b;
+    }
 }
