@@ -18,4 +18,9 @@ public class ProjectDhruvi {
     public double add(double a, double b){
         return a+b;
     }
+    
+    //added a piece of code
+    public double subtract(double a, double b){
+        return a-b;
+    }
 }
